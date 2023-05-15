@@ -1,9 +1,14 @@
 ### Hi there, my name is Mastvei
 ### I'm a beginner Junior Software Engineer 👋
+
+
+
 + A little about me:
   + :zap: I study on my own and with the help of [Rolling Scopes School](https://rs.school/) 
   + :computer: I really like writing code 
   + :envelope: Open for job offers 
+
+
 
 ### Tools 
 
@@ -73,7 +78,7 @@
 </div>
 
 ### Projects
-### Contacts 
+### Social
 
 <a href="https://t.me/FuflQ">
   <img src="https://img.shields.io/badge/telegram-000?style=for-the-badge&logo=telegram&logoColor=26A5E4&"></img>
