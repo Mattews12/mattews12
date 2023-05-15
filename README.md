@@ -78,7 +78,13 @@
 </div>
 
 ### Projects
+
 [cssBayan](https://github.com/Mattews12/cssBayan/pull/1)
+
+### Problem solving 
+
+<img src="https://www.codewars.com/users/mattews12/badges/large">
+
 ### Social
 
 <a href="https://t.me/FuflQ">
@@ -90,7 +96,6 @@
 <a href="https://twitter.com/stretchingboy">
   <img src="https://img.shields.io/badge/twitter-262626?style=for-the-badge&logo=twitter&logoColor=1DA1F2"></img>
 </a>
-
 
 
 
