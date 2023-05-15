@@ -81,7 +81,7 @@
 
 [cssBayan](https://github.com/Mattews12/cssBayan/pull/1)
 
-### Problem solving 
+### Codewars
 
 <img src="https://www.codewars.com/users/mattews12/badges/large">
 
