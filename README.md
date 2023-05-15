@@ -1,4 +1,10 @@
-### Hi there, I'm a beginner Junior Software Engineer 👋
+### Hi there, my name is Mastvei
+### I'm a beginner Junior Software Engineer 👋
++ A little about me:
+  + :zap: I study on my own and with the help of [Rolling Scopes School](https://rs.school/) 
+  + :computer: I really like writing code 
+  + :envelope: Open for job offers 
+  + :blue_book: My hobby is psychology 
 
 ### Tools 
 
@@ -68,6 +74,21 @@
 </div>
 
 ### Projects
-<!-- <img src="https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img> -->
 ### Contacts 
+
+<a href="https://t.me/FuflQ">
+  <img src="https://img.shields.io/badge/telegram-000?style=for-the-badge&logo=telegram&logoColor=26A5E4&"></img>
+</a>
+<a href="https://www.linkedin.com/in/matsvei-anufryieu-6a8640252/">
+  <img src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></img>
+</a>
+<a href="https://twitter.com/stretchingboy">
+  <img src="https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=twitter&logoColor=1DA1F2"></img>
+</a>
+
+
+
+
+
+
 
