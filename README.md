@@ -5,7 +5,7 @@
 
 + A little about me:
   + :zap: I study on my own and with the help of [Rolling Scopes School](https://rs.school/) 
-  + :computer: I really like writing code 
+  + :computer: A passionate frontend developer from Belarus
   + :envelope: Open for job offers 
 
 
