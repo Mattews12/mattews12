@@ -11,20 +11,20 @@
       height="50"
   /></a>
   <a
-    href="https://raw.githubusercontent.com/Mattews12/mattews12/7e00a0e3a2772ecfb144948fb7fa4c80edc9b16e/assets/svg/css3-icon.svg)"
+    href="https://en.wikipedia.org/wiki/CSS"
     target="_blank"
     ><img
       style="margin: 15px"
-      src="https://github.com/Mattews12/mattews12/assets/87822846/bf6cd7b3-b928-4bbe-9937-49f5b74a4b8f"
+      src="https://raw.githubusercontent.com/Mattews12/mattews12/7e00a0e3a2772ecfb144948fb7fa4c80edc9b16e/assets/svg/css3-icon.svg" 
       alt="CSS3"
       height="50"
   /></a>
   <a
-    href="https://raw.githubusercontent.com/Mattews12/mattews12/7e00a0e3a2772ecfb144948fb7fa4c80edc9b16e/assets/svg/sass-icon.svg"
+    href="https://sass-lang.com/"
     target="_blank"
     ><img
       style="margin: 15px"
-      src="https://github.com/Mattews12/mattews12/assets/87822846/70139884-97fd-4088-95c1-1e37c18772ae"
+      src="https://raw.githubusercontent.com/Mattews12/mattews12/7e00a0e3a2772ecfb144948fb7fa4c80edc9b16e/assets/svg/sass-icon.svg" 
       alt="Sass"
       height="50"
   /></a>
@@ -37,7 +37,7 @@
   /></a>
   <br />
   <br />
-  <a href="https://www.javascript.com/" target="_blank"
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript" target="_blank"
     ><img
       style="margin: 15px"
       src="https://raw.githubusercontent.com/Mattews12/mattews12/7e00a0e3a2772ecfb144948fb7fa4c80edc9b16e/assets/svg/javascript-icon.svg"
