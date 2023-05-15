@@ -4,7 +4,6 @@
   + :zap: I study on my own and with the help of [Rolling Scopes School](https://rs.school/) 
   + :computer: I really like writing code 
   + :envelope: Open for job offers 
-  + :blue_book: My hobby is psychology 
 
 ### Tools 
 
