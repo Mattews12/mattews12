@@ -80,8 +80,6 @@
 ### Projects
 
 + [cssBayan](https://github.com/Mattews12/cssBayan/pull/1)  
-+ [Clean Code](https://github.com/Mattews12/clean-code-s1e1/pull/1)
-+ [Plants](https://github.com/Mattews12/Plants/pull/2)
 
 ### Codewars
 
