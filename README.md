@@ -95,9 +95,7 @@
 <a href="https://www.linkedin.com/in/matsvei-anufryieu-6a8640252/">
   <img src="https://img.shields.io/badge/linkedin-262626?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></img>
 </a>
-<a href="https://twitter.com/stretchingboy">
-  <img src="https://img.shields.io/badge/twitter-262626?style=for-the-badge&logo=twitter&logoColor=1DA1F2"></img>
-</a>
+
 
 
 
